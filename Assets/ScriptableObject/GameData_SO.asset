@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 52da923c862f3ad4b9acb0f9576e4101, type: 3}
+  m_Name: GameData_SO
+  m_EditorClassIdentifier: 
+  pacmanHealth: 3
+  frightenedGhost: {fileID: 2235657182717214051, guid: 0936063b4493d964ca6c75c0f4f0cf12, type: 3}
+  deathGhost: {fileID: 1274381291662119357, guid: 37ab6b215edb7e44a96e6b1ef253bfd5, type: 3}
+  pacman: {fileID: 4429443257987660597, guid: ccb22b12acfe34b45b16edebd0cb101a, type: 3}

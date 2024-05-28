@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Character
+  - Water
+  - UI
+  - Border
+  - Ground
+  - Door
+  - Node
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3338655483
+    locked: 0
+  - name: Ground
+    uniqueID: 3526251543
+    locked: 0
+  - name: Border
+    uniqueID: 1463441401
+    locked: 0
+  - name: Player
+    uniqueID: 810368513
+    locked: 0
+  - name: Door
+    uniqueID: 273948997
+    locked: 0
+  - name: Food
+    uniqueID: 4252044837
+    locked: 0
+  - name: ExtraFood
+    uniqueID: 1464346693
+    locked: 0
